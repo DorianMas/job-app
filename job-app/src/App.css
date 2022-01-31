@@ -1,0 +1,26 @@
+/* Other rules */
+
+header {
+  background-color: black;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  font-family: Georgia, sans-serif;
+  font-weight: bold;
+}
+
+.jobs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: #f1f1f1;
+}
+
+.job {
+  background-color: blue;
+}
